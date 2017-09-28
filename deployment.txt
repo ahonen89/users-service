@@ -1,0 +1,16 @@
+1. Pre-requisites
+
+Please have mongoDB installed and running on your local computer.
+
+
+2. Deployment instructions
+
+The solution comes as an archive. Please unzip it into a separate folder.
+"cd" into this folder and run "npm install" to install the app's dependencies.
+
+After the dependencies are installed:
+"npm start" for running the app.
+"npm test" for running the tests.
+
+While the app is running, you can hit the endpoints with a client (e.g. Postman)
+Endpoints were specified in readme.txt file.
